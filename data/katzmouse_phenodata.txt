@@ -1,0 +1,5 @@
+sample.id num.tech.reps cell.type insert.length.mean insert.length.sd knockdown.status
+SRX026633 1 C2C12 282 19 shRNA against CUGBP1
+SRX026632 1 C2C12 277 14 control shRNA
+SRX026631 1 C2C12 99 15 shRNA against CUGBP1
+SRX026630 1 C2C12 98 15 control shRNA
